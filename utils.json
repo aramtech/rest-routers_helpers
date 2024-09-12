@@ -1,0 +1,17 @@
+{
+    "name": "rest-routers_helpers",
+    "owner": "aramtech",
+    "deps": {
+        "rest-common": {
+            "owner": "aramtech",
+            "repo": "rest-common",
+            "update_policy": "major",
+            "version": "0.1.0"
+        }
+    },
+    "private": false,
+    "hash": "TRV_jgXirWBQAAWYd8a63H9NmgszCcgwd399DdXQF5w",
+    "version": "0.3.1",
+    "public_repo": false,
+    "description": ""
+}
